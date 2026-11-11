@@ -1,0 +1,5 @@
+ode_modules/
+test-results/
+playwright-report/
+.env
+*.local.json
